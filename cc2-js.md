@@ -8,6 +8,12 @@ interpreted as described in [RFC 2119][].
 [PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
 [PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 
+## General
+
+The Javascript code MUST BE disponsable. If final user disable Javascript in his web browser, the application must have normal behavior.
+
+A JS Framework SHOULD BE used (like JQuery).
+
 ## CoffeeScript
 
 ### What is Coffee Script ?
