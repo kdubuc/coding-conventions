@@ -8,6 +8,10 @@ interpreted as described in [RFC 2119][].
 [PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
 [PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 
+## Priority
+
+The rules describes in the coding conventions have priority on similar rules in all coding styles quoted in the CCx.
+
 ## Systems development life-cycle
 
 ### Versionning
@@ -22,7 +26,7 @@ Continuous integration should be implemented for all projects. Code committed to
 
 ### Overview
 
-The code must be human comprehensive and MUST BE follow the guidelines describes in the CC0, CC1, CC2 and CC3.
+The code must be human comprehensive and MUST BE follow the guidelines describes in the CCx.
 
 Code MUST use 4 spaces for indenting, not tabs.
 
