@@ -18,9 +18,15 @@ The rules describes in the coding conventions have priority on similar rules in 
 
 The versionning and revision control MUST BE used in all projects. Git is recommended.
 
+The version number MUST BE assigned and incremented in follow the [Semantic Versioning Specification](http://semver.org/).
+
 ### Continuous integration
 
-Continuous integration should be implemented for all projects. Code committed to revision control should be validated against international standards and best practice. If the code passes validation then it should be processed for deployment. Deployment process should include concatenation and minification. Travis CI is recommended.
+Continuous integration SHOULD BE implemented for all projects. Code committed to revision control should be validated against international standards and best practice. If the code passes validation then it should be processed for deployment. Deployment process should include concatenation and minification. Travis CI is recommended.
+
+### High performance
+
+The application performance MUST BE mesured and increased with [YSlow](http://yslow.org/). The Grade A MUST BE your objective.
 
 ## Coding style and structure
 
