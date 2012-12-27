@@ -18,7 +18,7 @@ The rules describes in the coding conventions have priority on similar rules in 
 
 The versionning and revision control MUST BE used in all projects. Git is recommended.
 
-The version number MUST BE assigned and incremented in follow the [Semantic Versioning Specification](http://semver.org/).
+The version number MUST BE assigned and incremented in follow with the [Semantic Versioning Specification](http://semver.org/).
 
 ### Continuous integration
 
