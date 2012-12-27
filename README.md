@@ -13,13 +13,13 @@ This document outlines [coding conventions](http://en.wikipedia.org/wiki/Coding_
 
 ## Useful links
 
-### Front-end developpement
+### Front-end development 
 
 * Boostraping the HTML 5 structure : http://html5boilerplate.com/
 * Normalize the CSS : http://necolas.github.com/normalize.css/
 * Imageless icons : http://www.entypo.com/
 * Web fonts : https://typekit.com/
 
-### Back-end developpement
+### Back-end development 
 
 * WZRD framework : https://github.com/kdubuc/wzrd-framework
