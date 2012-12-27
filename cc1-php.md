@@ -10,6 +10,8 @@ interpreted as described in [RFC 2119][].
 
 ## General
 
+You MUST use PHP >5.3.
+
 The [MVC model](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) MUST BE used.
 
 You SHOULD use a PHP framework (like Zend Framework, Symfony).
