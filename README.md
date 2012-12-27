@@ -11,6 +11,7 @@ This document outlines [coding conventions](http://en.wikipedia.org/wiki/Coding_
 * [CC2 - JS](https://github.com/kdubuc/coding-conventions/blob/master/cc2-js.md)
 * [CC3 - CSS](https://github.com/kdubuc/coding-conventions/blob/master/cc3-css.md)
 * [CC4 - HTML](https://github.com/kdubuc/coding-conventions/blob/master/cc4-html.md)
+* [CC5 - DATABASES](https://github.com/kdubuc/coding-conventions/blob/master/cc5-databases.md)
 
 ## Useful links
 
