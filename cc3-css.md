@@ -24,6 +24,8 @@ Example :
 }
 ````
 
+To conclude the general part, you MUST follow the @mdo's guidelines describes here : https://github.com/mdo/code-guide#css.
+
 ## Device-agnostic ans mobile-first
 
 Don’t define your breakpoints according to some device, define your breakpoints when your design breaks.
