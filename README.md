@@ -25,3 +25,11 @@ This document outlines [coding conventions](http://en.wikipedia.org/wiki/Coding_
 ### Back-end development 
 
 * WZRD framework : https://github.com/kdubuc/wzrd-framework
+
+## Thanks
+
+Heavily inspired by : 
+* GitHub Styleguide
+* code-guide by @mdo
+* PHP Framework Interoperability Group 
+* CSS Guidelines by @Anahkiasen
