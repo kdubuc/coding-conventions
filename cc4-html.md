@@ -16,3 +16,4 @@ You MUST use a project initializer like http://www.initializr.com/.
 
 The HTML structure MUST follow the guidelines describes in the documentation of [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/v4.0.2/doc/html.md).
 
+You MUST follow the @mdo's guidelines describes here : https://github.com/mdo/code-guide#html.
