@@ -10,6 +10,7 @@ interpreted as described in [RFC 2119][].
 
 ## General
 
-* Tables MUST BE lowercase and plural e.g. items, cars.
-* The tables's storage engine MUST BE InnoDB.
-* The tables's collation MUST BE utf8_general_ci.
+* Tables MUST BE lowercase, separated with "-", and plural e.g. items, cars, banks-accounts.
+* The tables's storage engine MUST BE InnoDB ;
+* The tables's collation MUST BE utf8_general_ci ;
+* Tables's row name MUST be lowercase and separated with underscore .
