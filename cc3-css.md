@@ -47,3 +47,11 @@ You SHOULD use a dynamic stylesheet language. [LESS](http://lesscss.org/) is rec
 ## Framework CSS
 
 It's highly recommended to use a framework. [Twitter Bootstrap](http://twitter.github.com/bootstrap/) is recommended.
+
+## CSS rules order
+
+1. positioning (position, z-index ...)
+2. box model (display, float ...)
+3. typography (text-align, color ...)
+4. visual (background, border ...)
+5. misc (opacity ...)
